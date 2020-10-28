@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/coin-finder/static/css/main.d763e10c.chunk.css",
+    "main.js": "/coin-finder/static/js/main.f64f77ac.chunk.js",
+    "main.js.map": "/coin-finder/static/js/main.f64f77ac.chunk.js.map",
+    "runtime-main.js": "/coin-finder/static/js/runtime-main.c35107d7.js",
+    "runtime-main.js.map": "/coin-finder/static/js/runtime-main.c35107d7.js.map",
+    "static/css/2.6414bb7b.chunk.css": "/coin-finder/static/css/2.6414bb7b.chunk.css",
+    "static/js/2.75d4757b.chunk.js": "/coin-finder/static/js/2.75d4757b.chunk.js",
+    "static/js/2.75d4757b.chunk.js.map": "/coin-finder/static/js/2.75d4757b.chunk.js.map",
+    "index.html": "/coin-finder/index.html",
+    "precache-manifest.c9571c89e7150b86819f9ff80bd31ef6.js": "/coin-finder/precache-manifest.c9571c89e7150b86819f9ff80bd31ef6.js",
+    "service-worker.js": "/coin-finder/service-worker.js",
+    "static/css/2.6414bb7b.chunk.css.map": "/coin-finder/static/css/2.6414bb7b.chunk.css.map",
+    "static/css/main.d763e10c.chunk.css.map": "/coin-finder/static/css/main.d763e10c.chunk.css.map",
+    "static/js/2.75d4757b.chunk.js.LICENSE.txt": "/coin-finder/static/js/2.75d4757b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c35107d7.js",
+    "static/css/2.6414bb7b.chunk.css",
+    "static/js/2.75d4757b.chunk.js",
+    "static/css/main.d763e10c.chunk.css",
+    "static/js/main.f64f77ac.chunk.js"
+  ]
+}
