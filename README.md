@@ -1,3 +1,5 @@
+You can see how it works live on: https://KostiantynKM.github.io/coin-finder/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
