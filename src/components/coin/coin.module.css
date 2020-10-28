@@ -1,0 +1,17 @@
+.enter {
+  background-color: rgb(249 126 123 / 0.8);
+  transform: scale(0.9);
+}
+.enterActive {
+  background-color: rgb(249 126 123 / 0.8);
+  transform: translateX(0);
+  transition: background-color 300ms, transform 300ms;
+}
+.exit {
+  background-color: rgb(249 126 123 / 0.8);
+}
+.exitActive {
+  transform: scale(0.9);
+  background-color: rgb(249 126 123 / 0.8);
+  transition: background-color 300ms, transform 300ms;
+}
