@@ -1,3 +1,18 @@
+Requirements:
+
+. When loading the page, there should be a request to get a list of cryptocurrencies, for example, top-100.
+
+. The interface should consist of a list of cryptocurrencies received when the page was loaded, an input field for searching for a cryptocurrency from the resulting list, as well as a list of favorite cryptocurrencies.
+
+. When adding a cryptocurrency to the list of favorites, you need to add the ability so that when the page is refreshed, the data does not disappear from the list.
+
+. The search can be both by name and by the symbol of the cryptocurrency at the same time.
+
+. If we want to add a cryptocurrency that is already in the list, we need to notify the user with a highlight for a second that there is already such a cryptocurrency in the list.
+
+. It shall be possible to sort, filter by different parameters of cryptocurrencies.
+
+
 You can see how it works live on: https://KostiantynKM.github.io/coin-finder/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
