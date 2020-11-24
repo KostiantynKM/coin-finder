@@ -1,4 +1,4 @@
-Requirements:
+Test task Requirements:
 
 . When loading the page, there should be a request to get a list of cryptocurrencies, for example, top-100.
 
